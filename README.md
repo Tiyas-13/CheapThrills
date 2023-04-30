@@ -1,7 +1,7 @@
 # CheapThrills
 ## Big Data Spring '23 Project
 
-### Travel App for Trip Reccomendations within specified budget
+### Travel App for Trip Reccomendations within Specified Budget
 
 #### Tech Stack: React.js, Flask, PostgresSQL, MongoDB, PySpark
 
